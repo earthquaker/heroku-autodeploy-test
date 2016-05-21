@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "app for heroku",
   "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
   "dependencies": {
     "mailgun-js": "^0.7.11"
   },
