@@ -1,0 +1,18 @@
+{
+  "name": "heroku-autodeploy-test",
+  "version": "1.0.0",
+  "description": "app for heroku",
+  "dependencies": {
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Elias Hansen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/earthquaker/heroku-autodeploy-test/issues"
+  },
+  "homepage": "https://github.com/earthquaker/heroku-autodeploy-test#readme",
+  "devDependencies": {
+  }
+}
