@@ -2,7 +2,9 @@
   "name": "heroku-autodeploy-test",
   "version": "1.0.0",
   "description": "app for heroku",
+  "main": "index.js",
   "dependencies": {
+    "mailgun-js": "^0.7.11"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -12,7 +14,5 @@
   "bugs": {
     "url": "https://github.com/earthquaker/heroku-autodeploy-test/issues"
   },
-  "homepage": "https://github.com/earthquaker/heroku-autodeploy-test#readme",
-  "devDependencies": {
-  }
+  "homepage": "https://github.com/earthquaker/heroku-autodeploy-test#readme"
 }
